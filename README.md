@@ -2,6 +2,8 @@
 
 Welcome to my personal resume website! This platform serves as a comprehensive overview of my professional background, technical expertise, and various projects. Feel free to explore the different sections to get a better understanding of my qualifications and experiences.
 
+You can visit my resume website using the following link: [Samarth's Resume. ](https://samarthmule.github.io/Samarth-Resume/#)
+
 ## Table of Contents
 
 - [Home](#home)
